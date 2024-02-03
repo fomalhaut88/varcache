@@ -7,3 +7,6 @@ __pycache__
 
 /tmp/*
 !/tmp/.gitkeep
+
+/dist/
+*.egg-info

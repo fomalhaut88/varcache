@@ -4,7 +4,9 @@ A simple library that provides a way to store and synchronize Python objects on 
 
 ## Installation
 
-`pip install varcache`
+```
+pip install varcache
+```
 
 ## Basic example
 

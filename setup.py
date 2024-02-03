@@ -14,4 +14,5 @@ setup(
     license="MIT",
     zip_safe=False,
     long_description=get_long_description(),
+    long_description_content_type='text/markdown',
 )
